@@ -92,3 +92,11 @@ button.operator{
 button.delete{
     background-color: rgb(193, 183, 138);
 }
+
+#backspace {
+    color:rgb(138, 130, 94)
+}
+#dot
+{
+    color:rgb(203, 193, 148);
+}
